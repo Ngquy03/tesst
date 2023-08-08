@@ -6,5 +6,6 @@
 int main(int argc, char *argv[]) {
 	int a,c;
 	int d;
+
 	return 0;
 }
