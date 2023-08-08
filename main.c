@@ -6,6 +6,6 @@
 int main(int argc, char *argv[]) {
 	int a,c;
 	int d;
-	//hieu da code vao day
+
 	return 0;
 }
